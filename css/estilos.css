@@ -20,6 +20,11 @@ body{
     margin: 50px;
 }
 
+.contenedor >div:hover{
+
+    border: 1px solid black ;
+}
+
 
 .contenedor .lado_izquierdo{
 
